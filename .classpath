@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Ripley/workspace/DemoGraph/jgraphx-3.7.5/jgraphx-3.7.5/lib/jgraphx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ripley/workspace/DemoGraph/jgrapht-1.0.1/jgrapht-1.0.1/lib/jgrapht-ext-1.0.1-uber.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
